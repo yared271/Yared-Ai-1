@@ -1,0 +1,11 @@
+{
+  "name": "ጥበብ AI (Tibeb AI) - ሁሉን አቀፍ የዕውቀት ረዳት",
+  "description": "ሁሉን አቀፍ የዕውቀት ረዳት በጤና፣ ስፖርት፣ ቴክኖሎጂ እና ኮዲንግ፣ ታሪክ፣ ትምህርት፣ ሳይንስ እና ቢዝነስ ዙሪያ ጥልቅ ማብራሪያ የሚሰጥ ብልህ AI።",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
